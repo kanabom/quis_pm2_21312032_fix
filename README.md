@@ -1,2 +1,2 @@
-# quis_pm2_21312032_fix
-21312032
+# quis_pm2_npm
+Ini adalah repo untuk quis pemrograman mobile 2
